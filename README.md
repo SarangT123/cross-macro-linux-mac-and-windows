@@ -1,4 +1,4 @@
-# cross-macro-linux-mac-and-windows
+# cross platform macro by sarang#4142
 This is a cross platform macro . works with linux mac and windows 
 
 # How to install the macro ⏬
